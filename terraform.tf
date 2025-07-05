@@ -13,12 +13,12 @@ terraform {
       version = "3.5.1"
     }
   }
-  /* Uncomment this block to use Terraform Cloud for this tutorial
+  #/* Uncomment this block to use Terraform Cloud for this tutorial
   cloud {
-    organization = "organization-name"
+    organization = "eud0r-1450"
     workspaces {
       name = "learn-terraform-plan"
     }
   }
-*/
+#*/
 }
